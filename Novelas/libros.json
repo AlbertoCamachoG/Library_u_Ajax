@@ -1,0 +1,522 @@
+{
+"libros":[
+    {
+        "Name":"Coiling Dragon",
+        "Author":"I Eat Tomatoes",
+        "Chapters":"806",
+        "Language":"Chinese",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Dungeon Hunter",
+        "Author":"Onhu",
+        "Chapters":"242",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Breakers",
+        "Author":"Chwiryong",
+        "Chapters":"231",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"I'm Sorry For Beign Born In This World!",
+        "Author":"Vortex",
+        "Chapters":"68",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Seoul Station's Necromancer",
+        "Author":"Jin Seolwoo",
+        "Chapters":"208",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"All You Need Is Kill",
+        "Author":"Hiroshi Sakurazaka",
+        "Chapters":"1 volume",
+        "Language":"Japanese",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Emperor Of Solo Play",
+        "Author":"D-Dart",
+        "Chapters":"191",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Everyone Else Is A Returnee",
+        "Author":"Toika",
+        "Chapters":"348",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":2
+    },
+    {
+        "Name":"A Monster Who Levels Up",
+        "Author":"Jee Gab Song",
+        "Chapters":"174",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Solo Leveling",
+        "Author":"Chugong",
+        "Chapters":"243",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Infinite Competitive Dungeon Society",
+        "Author":"Toika",
+        "Chapters":"352",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Lv1 Skeleton",
+        "Author":"Daystar",
+        "Chapters":"157",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"How I Saved History",
+        "Author":"Charles Flynn",
+        "Chapters":"156",
+        "Language":"English",
+        "Status":"Finished",
+        "TimesRead":1,
+        "Fanfiction":"FGO"
+    },
+    {
+        "Name":"The Overlord of Blood and Iron",
+        "Author":"Dam Hwa Gong",
+        "Chapters":"355",
+        "Language":"Korean",
+        "Status":"Finished",
+        "TimesRead":1
+    },
+    {
+        "Name":"Against The Gods",
+        "Author":"Mars Gravity",
+        "Chapters":"Ongoing",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"1255"
+    },
+    {
+        "Name":"Tales of Demons and Gods",
+        "Author":"Mad Snail",
+        "Chapters":"Ongoing",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"463"
+    },
+    {
+        "Name":"Terror Infinity",
+        "Author":"Zhttty",
+        "Chapters":"23 Volumes",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Vol 22 Chapter 1-2"
+    },
+    {
+        "Name":"The Second Coming of Gluttony",
+        "Author":"Ro Yu-jin",
+        "Chapters":"489",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"166"
+    },
+    {
+        "Name":"Side Character Transmigrations The Final Boss is No Joke",
+        "Author":"Mo Ling",
+        "Chapters":"489",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"311"
+    },
+    {
+        "Name":"I Shall Seal The Heavens",
+        "Author":"Er Gen",
+        "Chapters":"1613",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"1390"
+    },
+    {
+        "Name":"Shrouding The Heavens",
+        "Author":"Chen Dong",
+        "Chapters":"1822",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"190"
+    },
+    {
+        "Name":"Emperor's Domination",
+        "Author":"Yan Bi Xiao Sheng",
+        "Chapters":"Ongoing",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"294"
+    },
+    {
+        "Name":"Ancient Strengthening Technique",
+        "Author":"Eu sou supérfluo",
+        "Chapters":"2492",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"161"
+    },
+    {
+        "Name":"Renegade Immortal",
+        "Author":"Er Gen",
+        "Chapters":"2088",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"226"
+    },
+    {
+        "Name":"Martial God Asura",
+        "Author":"Shan Liang de Mi Feng",
+        "Chapters":"Ongoing",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"483"
+    },
+    {
+        "Name":"Terror Infinity - Side B",
+        "Author":"Wellsford",
+        "Chapters":"Hiatus",
+        "Language":"English",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Chapter 33 H.O.T.D 2 FINAL"
+    },
+    {
+        "Name":"God and Devil World",
+        "Author":"Zi Chan Bao Zeng",
+        "Chapters":"1236",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"1172"
+    },
+    {
+        "Name":"Zombie evolution",
+        "Author":"Zhou LangXian",
+        "Chapters":"Abandoned",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"48"
+    },
+    {
+        "Name":"Law of the Devil",
+        "Author":"Tiao Wu",
+        "Chapters":"789",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"73"
+    },
+    {
+        "Name":"The Dungeon Seeker",
+        "Author":"Sakamoto 666",
+        "Chapters":"Hiatus",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Vol 5 Prologue"
+    },
+    {
+        "Name":"Great Demon King",
+        "Author":"Ni Cang Tian",
+        "Chapters":"1027",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"185"
+    },
+    {
+        "Name":"Reincarnator",
+        "Author":"ALLA",
+        "Chapters":"492",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"426"
+    },
+    {
+        "Name":"Evil Dragon Against The Heaven",
+        "Author":"Mars Gravity",
+        "Chapters":"1265",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"146"
+    },
+    {
+        "Name":"Mother of Learning",
+        "Author":"nobody103",
+        "Chapters":"106",
+        "Language":"English",
+        "Status":"Finished",
+        "TimesRead":1,
+        "FinishedDate":"22 / 12 / 2020"
+    },
+    {
+        "Name":"Evolution Theory of the Hunter",
+        "Author":"음란파괴왕",
+        "Chapters":"317",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"104"
+    },
+    {
+        "Name":"Rise of The Undead Legion",
+        "Author":"Biako",
+        "Chapters":"Ongoing",
+        "Language":"English",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"218"
+    },
+    {
+        "Name":"Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo",
+        "Author":"Tatsunoko Tarou",
+        "Chapters":"12 Volumes",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Vol 10"
+    },
+    {
+        "Name":"Doomsday Lord",
+        "Author":"Xiǎng Zhěntou De Kēshuì",
+        "Chapters":"856",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"110"
+    },
+    {
+        "Name":"World of Warcraft Foreign Realm Domination",
+        "Author":"Angry Thrall",
+        "Chapters":"562",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"242"
+    },
+    {
+        "Name":"Gate of Revelation",
+        "Author":"Tiao Wu",
+        "Chapters":"Ongoing",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"129"
+    },
+    {
+        "Name":"Master Hunter K",
+        "Author":"FromHell",
+        "Chapters":"186",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"180"
+    },
+    {
+        "Name":"Tranxending Vision",
+        "Author":"Li Xianyu",
+        "Chapters":"2621",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"146"
+    },
+    {
+        "Name":"Shura's Wrath",
+        "Author":"Mars Gravity",
+        "Chapters":"850",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"814"
+    },
+    {
+        "Name":"The King's Avatar",
+        "Author":"Butterfly Blue",
+        "Chapters":"1728",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"245"
+    },
+    {
+        "Name":"Peerless Martial God",
+        "Author":"Jing Wu Hen",
+        "Chapters":"2500",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"136"
+    },
+    {
+        "Name":"The Ultimate Evolution",
+        "Author":"Juantu",
+        "Chapters":"1460",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Vol 2 Chapter 37"
+    },
+    {
+        "Name":"Arifureta Shokugyou de Sekai Saikyou",
+        "Author":"Ryo Shirakome",
+        "Chapters":"Ongoing",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Vol 5 Chapter 9"
+    },
+    {
+        "Name":"Instant Death",
+        "Author":"Tsuyoshi Fujitaka",
+        "Chapters":"Ongoing",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"Vol 2 Chapter 2"
+    },
+    {
+        "Name":"Kumo Desu ga, Nani ka",
+        "Author":"Baba Okina",
+        "Chapters":"330 chapters + 225 Extra",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"SS autumn-leaf viewing (After Chp 284)"
+    },
+    {
+        "Name":"Possessing Nothing",
+        "Author":"Mogma",
+        "Chapters":"427",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"71"
+    },
+    {
+        "Name":"Infinity Armament",
+        "Author":"Zero Destiny",
+        "Chapters":"1433",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"?"
+    },
+    {
+        "Name":"The Eye Of The World",
+        "Author":"Robert Jordan",
+        "Chapters":"53 (782 pages)",
+        "Language":"English",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"?"
+    },
+    {
+        "Name":"Stuck as a Dungeon Mob",
+        "Author":"Pwnzer",
+        "Chapters":"Ongoing",
+        "Language":"English",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"147"
+    },
+    {
+        "Name":"Never Die Extra",
+        "Author":"Toika",
+        "Chapters":"500",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"125"
+    },
+    {
+        "Name":"Clearing an Isekai With the Zero-Believers Goddess – the Weakest Mage Among the Classmates",
+        "Author":"Oosaki Isle",
+        "Chapters":"Ongoing",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"176"
+    },
+    {
+        "Name":"My Death Flags Show No Sign of Ending",
+        "Author":"Izumi",
+        "Chapters":"Ongoing",
+        "Language":"Japanese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"86"
+    },
+    {
+        "Name":"FFF-Class Trashero",
+        "Author":"Farnar",
+        "Chapters":"428",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"106"
+    },
+    {
+        "Name":"Regressor Instruction Manual",
+        "Author":"흙수저",
+        "Chapters":"877 (Main Story Complete)",
+        "Language":"Korean",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"167"
+    },
+    {
+        "Name":"Abyss Domination",
+        "Author":"Zhusheng Futu",
+        "Chapters":"1126 ",
+        "Language":"Chinese",
+        "Status":"Reading",
+        "TimesRead":0,
+        "LastChapter":"26"
+    }
+]
+}

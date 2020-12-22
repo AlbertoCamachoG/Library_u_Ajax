@@ -1,0 +1,115 @@
+html{
+    height: 100%;
+}
+body{
+    display: flex;
+    margin:0px;
+    height: 100%;
+    flex-direction: column;
+    background-color: #22262c;
+}
+header{
+    display: flex;
+    background-color: black;
+    color:white;
+    flex-direction: row;
+    padding:5px 40px;
+    justify-content: flex-end;
+    align-content: center;
+}
+#busqueda{
+    border-radius:15px;
+    border:2px solid black;
+    box-shadow:0px 2px 0px azure,0px -2px 0px azure,2px 0px 0px azure,-2px 0px 0px azure;
+    padding: 2px;
+    font-family: 'JetBrains Mono', monospace;
+    align-self: center;
+    margin-left:40px;
+}
+#busqueda:focus{
+    box-shadow:0px 2px 0px azure,0px -2px 0px azure,2px 0px 0px azure,-2px 0px 0px azure,0px 0px 20px azure;
+    outline-width: 0;
+}
+#padre{
+    width: 100%;
+    height: fit-content;
+    background-color: #22262c;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+header h1{
+    margin-right: auto;
+    margin-left:40px ;
+}
+header img{
+    align-self: center;
+}
+#lupa{
+    margin-left:15px ;
+    border-radius: 30px;
+    border: solid 3px azure;
+    padding:2px;
+}
+#lupa:hover{
+    box-shadow:0px 0px 20px azure;
+
+}
+#padre table, #padre td{
+    background-color: azure;
+    border:solid 5px black;
+    border-collapse: collapse;
+
+}
+header label,#finish,#noFinish{
+    height: fit-content;
+    margin:auto 15px auto 0px;
+}
+#authors, #language{
+    height:fit-content;
+    align-self: center;
+    margin-right:20px;
+    border-radius: 20px;
+    outline-width: 0;
+    box-shadow:0px 2px 0px azure,0px -2px 0px azure,2px 0px 0px azure,-2px 0px 0px azure;
+}
+#authors:hover{
+    box-shadow:0px 2px 0px azure,0px -2px 0px azure,2px 0px 0px azure,-2px 0px 0px azure,0px 0px 20px azure;
+    
+}
+#logo:hover{
+    margin:0px;
+    padding:0px;
+    box-shadow:0px 0px 20px azure;
+}
+#autores{
+    display:flex;
+    align-content:center;
+}
+#datos{
+    height: fit-content;
+    position: sticky;
+    bottom:40%;
+    margin:auto;
+    padding:20px;
+}
+#datos:focus{
+    
+    outline: 0;
+    box-shadow:0px 0px 20px azure;
+}
+#datos header{
+    background-color:azure;
+    color:black;
+    border-bottom:solid 1px black;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+#datos footer{
+    text-align: center;
+    border-top:solid 1px black;
+    padding-top: 10px;
+}
+#datos p{
+    text-align: center;
+}

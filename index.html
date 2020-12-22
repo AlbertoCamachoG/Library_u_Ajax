@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Libreria</title>
+        <meta charset="utf-8" lang="en">
+        <link rel="icon" href="./images/estante-para-libros.png">
+        <link rel="stylesheet" href="libreria.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <img id="logo" src="./images/estante-para-libros.png" height="50px">
+            <h1>Libreria</h1>
+            
+            <div id="autores">
+                <select id="language" name="Idioma">
+                    <option value="none">Language</option>
+                    <option value="Korean">Korean</option>
+                    <option value="Chinese">Chinese</option>
+                    <option value="Japanese">Japanese</option>
+                    <option value="English">English</option>
+                </select>
+            </div>
+
+            <label id="lFinish" for="finish">Finished</label>
+            <input type="radio" id="finish" name="status">
+
+            <label id="lNoFinish" for="noFinish">Reading</label>
+            <input type="radio" id="noFinish" name="status">
+
+            <input id="busqueda" type="text" placeholder=" Search...">
+            <img id="lupa" src="./images/search.png" height="30px">
+        </header>
+        <div id="padre"></div>
+        <script src="libreria.js"></script>
+    </body>
+</html>
